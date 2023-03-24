@@ -105,5 +105,5 @@ class Cuenta_vip(Cuenta):
             #Esta opcion solo se ejecuta cuando la cantidad a retirar es mayor que el saldo de la cuenta y el limite negativo
             #maximo se supera y por lo tanto la transferencia no puede realizarse.
             print("No puedes realizar la tranferencia")
-#
+
        
