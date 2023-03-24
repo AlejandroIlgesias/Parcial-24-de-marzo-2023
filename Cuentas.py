@@ -106,5 +106,5 @@ class Cuenta_vip(Cuenta):
             #maximo se supera y por lo tanto la transferencia no puede realizarse.
             print("No puedes realizar la tranferencia")
 
-#Actuali
+#Actual
         
