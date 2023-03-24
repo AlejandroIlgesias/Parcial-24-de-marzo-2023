@@ -43,3 +43,4 @@ cuenta_plazo_fijo.transferir(cuenta_vip,2000)
 cuenta_vip.transferir(cuenta_normal,2000)
 print("Saldo de la cuenta normal: ",cuenta_normal.saldo," Saldo de la cuenta plazo fijo: ",cuenta_plazo_fijo.saldo," Saldo cuenta vip: ",cuenta_vip.saldo)
 
+#actualizar
